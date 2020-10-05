@@ -1,0 +1,23 @@
+/target/
+/data/
+
+### STS/eclipse ###
+/bin
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+/mvnw
+/mvnw.cmd
+/.mvn/
